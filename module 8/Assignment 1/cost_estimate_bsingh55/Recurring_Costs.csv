@@ -1,0 +1,9 @@
+Item,Monthly Cost ($),3-Month Cost ($)
+"AWS EC2 (app server, t3.small)",45,135
+AWS RDS (db.t3.micro),29,87
+S3 Backups,8,24
+CloudWatch Monitoring,10,30
+Domain + SSL Certificate,10,30
+Maintenance Engineer Retainer,600,1800
+"Logging / APM Tool (e.g., Datadog)",50,150
+TOTAL,752,2256

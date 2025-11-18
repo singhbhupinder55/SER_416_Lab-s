@@ -1,0 +1,28 @@
+Type,Category,WBS ID,Task,Role,Weeks,Hours,Rate ($/hr),Quantity,Unit Cost ($),Cost ($),Notes
+Labor,WBS Task,1.1,Define Scope & Objectives,Project Manager,2,80,60,,,4800,Cost = weeks × 40h × role rate
+Labor,WBS Task,1.2,Schedule & Resource Planning,Project Manager,2,80,60,,,4800,Cost = weeks × 40h × role rate
+Labor,WBS Task,1.3,Risk Management & Budget Approval,Project Manager,3,120,60,,,7200,Cost = weeks × 40h × role rate
+Labor,WBS Task,2.1,Requirements Analysis & Use Cases,Backend Engineer,4,160,55,,,8800,Cost = weeks × 40h × role rate
+Labor,WBS Task,2.2,Database Schema Design,Database Engineer,3,120,50,,,6000,Cost = weeks × 40h × role rate
+Labor,WBS Task,2.3,System Architecture Diagram & APIs,Backend Engineer,2,80,55,,,4400,Cost = weeks × 40h × role rate
+Labor,WBS Task,3.1,Auth & Role-Based Login UI,Frontend Engineer,3,120,50,,,6000,Cost = weeks × 40h × role rate
+Labor,WBS Task,3.2,Ledger Entry Dashboard,Frontend Engineer,3,120,50,,,6000,Cost = weeks × 40h × role rate
+Labor,WBS Task,3.3,Reporting & Analytics UI,Frontend Engineer,3,120,50,,,6000,Cost = weeks × 40h × role rate
+Labor,WBS Task,3.4,Responsive Design & UX Polish,Frontend Engineer,2,80,50,,,4000,Cost = weeks × 40h × role rate
+Labor,WBS Task,4.1,API Implementation,Backend Engineer,5,200,55,,,11000,Cost = weeks × 40h × role rate
+Labor,WBS Task,4.2,Security & Access Control,Backend Engineer,4,160,55,,,8800,Cost = weeks × 40h × role rate
+Labor,WBS Task,4.3,Activity Logging & Audit Trail,Backend Engineer,2,80,55,,,4400,Cost = weeks × 40h × role rate
+Labor,WBS Task,4.4,Database Integration & Backup Setup,Database Engineer,3,120,50,,,6000,Cost = weeks × 40h × role rate
+Labor,WBS Task,5.1,Unit & Integration Testing,QA Engineer,3,120,45,,,5400,Cost = weeks × 40h × role rate
+Labor,WBS Task,5.2,User Acceptance Testing (UAT),QA Engineer,2,80,45,,,3600,Cost = weeks × 40h × role rate
+Labor,WBS Task,5.3,Security & Performance Testing,QA Engineer,2,80,45,,,3600,Cost = weeks × 40h × role rate
+Labor,WBS Task,6.1,Alpha/Beta/Release Deployment,Backend Engineer,3,120,55,,,6600,Cost = weeks × 40h × role rate
+Labor,WBS Task,6.2,Final Production Deployment,Backend Engineer,2,80,55,,,4400,Cost = weeks × 40h × role rate
+Labor,WBS Task,6.3,Maintenance & Documentation,Project Manager,2,80,60,,,4800,Cost = weeks × 40h × role rate
+Hardware,Developer Laptops,,Laptops for engineers (Phase 1),,,,,3,1500,4500,One-time Phase 1 non-labor cost
+Hardware,Office Furniture,,Desks and chairs for dev team,,,,,3,300,900,One-time Phase 1 non-labor cost
+Hardware,Test Server,,External test / staging server,,,,,1,500,500,One-time Phase 1 non-labor cost
+Software,JetBrains All Products,,Backend + Frontend IDE licenses (2 developers),,,,,2,249,498,One-time Phase 1 non-labor cost
+Software,Postman Workspace,,API testing workspace (5 users × $12/mo × 3 months),,,,,1,180,180,One-time Phase 1 non-labor cost
+Tool,Jira Cloud,,Issue tracking (5 users × $10/mo × 3 months),,,,,1,150,150,One-time Phase 1 non-labor cost
+Tool,GitHub Team Plan,,Source control (5 users × $4/mo × 3 months),,,,,1,60,60,One-time Phase 1 non-labor cost
