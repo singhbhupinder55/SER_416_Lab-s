@@ -1,0 +1,27 @@
+id,adults,children,has_pets,has_dogs,has_critical_meds,meds_need_fridge,special_needs,large_propane,natural_gas,address,phone,email,has_med_training,know_neighbors,has_neighbor_key,wants_newsletter,allow_non_disaster_contact,created_at,updated_at
+1,10,5,0,,1,0,pain in knee,0,0,"4427 mercutio rest, forsyth, ga, 31029",9291234323,bsingh55@asu.edu,0,0,0,0,,2025-12-07T12:02:37,2025-12-07T12:13:46
+2,8,6,0,,0,,no,0,0,"513 macon st, atlanta, ga, 31212",786-121-1231,abc@gmail.com,0,1,0,1,0,2025-12-07T12:36:39,2025-12-09T21:50:18
+3,30,15,0,,0,,no,0,0,4860 brookhaven drive,108291723932,,,,,,,2025-12-07T12:51:33,2025-12-07T12:51:33
+4,50,27,0,,0,,no,0,0,"212 sdgsa dusga, masd, da, 21212",,,,,,,,2025-12-09T21:51:25,2025-12-09T21:51:25
+5,2,1,0,,0,,no,0,1,"100 Main St, Phoenix, AZ 85001",4805551212,test1@example.com,0,0,0,0,0,2025-12-09T22:03:32,2025-12-09T22:03:32
+6,4,3,1,1,1,0,wheelchair user,1,0,"200 South Rd, Mesa, AZ 85212",6023334444,test2@example.com,1,1,0,1,1,2025-12-09T22:03:32,2025-12-09T22:03:32
+7,1,0,0,,0,,no,0,0,"300 West Ave, Tempe, AZ 85281",,,0,0,0,0,0,2025-12-09T22:03:32,2025-12-09T22:03:32
+8,3,2,1,0,0,,hearing impaired,0,1,"400 East Blvd, Chandler, AZ 85225",4809998888,test3@example.com,,,1,0,1,2025-12-09T22:03:32,2025-12-09T22:03:32
+9,2,1,0,,0,,no,0,1,"100 Main St, Phoenix, AZ 85001",4805551212,test1@example.com,0,0,0,0,0,2025-12-09T22:13:00,2025-12-09T22:13:00
+10,4,3,1,1,1,0,wheelchair user,1,0,"200 South Rd, Mesa, AZ 85212",6023334444,test2@example.com,1,1,0,1,1,2025-12-09T22:13:00,2025-12-09T22:13:00
+11,1,0,0,,0,,no,0,0,"300 West Ave, Tempe, AZ 85281",,,0,0,0,0,0,2025-12-09T22:13:00,2025-12-09T22:13:00
+12,3,2,1,0,0,,hearing impaired,0,1,"400 East Blvd, Chandler, AZ 85225",4809998888,test3@example.com,,,1,0,1,2025-12-09T22:13:00,2025-12-09T22:13:00
+13,1,2,0,,0,,no,0,0,test address 123,,,,,,,,2025-12-09T22:25:34,2025-12-09T22:25:34
+14,2,1,0,,0,,no,0,1,"100 Main St, Phoenix, AZ 85001",4805551212,test1@example.com,0,0,0,0,0,2025-12-09T22:27:00,2025-12-09T22:27:00
+15,4,3,1,1,1,0,wheelchair user,1,0,"200 South Rd, Mesa, AZ 85212",6023334444,test2@example.com,1,1,0,1,1,2025-12-09T22:27:00,2025-12-09T22:27:00
+16,1,0,0,,0,,no,0,0,"300 West Ave, Tempe, AZ 85281",,,0,0,0,0,0,2025-12-09T22:27:00,2025-12-09T22:27:00
+17,3,2,1,0,0,,hearing impaired,0,1,"400 East Blvd, Chandler, AZ 85225",4809998888,test3@example.com,,,1,0,1,2025-12-09T22:27:00,2025-12-09T22:27:00
+18,3,1,1,0,0,,no,0,1,"101 Oak St, Glendale, AZ 85301",6021112222,testA@example.com,0,1,0,1,0,2025-12-09T22:27:21,2025-12-09T22:27:21
+19,5,2,0,,1,1,requires insulin,1,0,"202 Pine Ave, Scottsdale, AZ 85254",4803334444,testB@example.com,1,0,0,0,1,2025-12-09T22:27:21,2025-12-09T22:27:21
+20,1,0,0,,0,,no,0,0,"303 Birch Dr, Tempe, AZ 85281",,,0,0,0,0,0,2025-12-09T22:27:21,2025-12-09T22:27:21
+21,2,3,1,1,0,,mobility assistance,0,1,"404 Maple Blvd, Chandler, AZ 85225",4807778888,testC@example.com,1,1,1,0,1,2025-12-09T22:27:21,2025-12-09T22:27:21
+22,3,2,1,1,1,0,broken leg,1,0,"122 Khurdan st, Dallas, TX, 31213",213-213-2311,test10@gmail.com,0,0,1,0,1,2025-12-09T22:52:06,2025-12-09T22:52:06
+23,3,1,1,0,0,,no,0,1,"101 Oak St, Glendale, AZ 85301",6021112222,testA@example.com,0,1,0,1,0,2025-12-09T22:53:01,2025-12-09T22:53:01
+24,5,2,0,,1,1,requires insulin,1,0,"202 Pine Ave, Scottsdale, AZ 85254",4803334444,testB@example.com,1,0,0,0,1,2025-12-09T22:53:01,2025-12-09T22:53:01
+25,1,0,0,,0,,no,0,0,"303 Birch Dr, Tempe, AZ 85281",,,0,0,0,0,0,2025-12-09T22:53:01,2025-12-09T22:53:01
+26,2,3,1,1,0,,mobility assistance,0,1,"404 Maple Blvd, Chandler, AZ 85225",4807778888,testC@example.com,1,1,1,0,1,2025-12-09T22:53:01,2025-12-09T22:53:01

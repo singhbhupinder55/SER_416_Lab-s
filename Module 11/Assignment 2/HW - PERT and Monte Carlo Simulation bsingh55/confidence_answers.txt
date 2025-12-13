@@ -1,0 +1,5 @@
+Confidence Analysis (from Monte Carlo Simulation)
+------------------------------------------------
+Approximate minimum project duration for 70.0% confidence: 30.2176
+Approximate minimum project duration for 80.0% confidence: 30.7129
+Approximate minimum project duration for 90.0% confidence: 31.4014

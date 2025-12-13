@@ -1,0 +1,5 @@
+adults,children,has_pets,has_dogs,has_critical_meds,meds_need_fridge,special_needs,large_propane,natural_gas,address,phone,email,has_med_training,know_neighbors,has_neighbor_key,wants_newsletter,allow_non_disaster_contact
+2,1,0,,0,,no,0,1,"100 Main St, Phoenix, AZ 85001",4805551212,test1@example.com,0,0,0,0,0
+4,3,1,1,1,0,"wheelchair user",1,0,"200 South Rd, Mesa, AZ 85212",6023334444,test2@example.com,1,1,0,1,1
+1,0,0,,0,,no,0,0,"300 West Ave, Tempe, AZ 85281",,,0,0,0,0,0
+3,2,1,0,0,,"hearing impaired",0,1,"400 East Blvd, Chandler, AZ 85225",4809998888,test3@example.com,,,1,0,1

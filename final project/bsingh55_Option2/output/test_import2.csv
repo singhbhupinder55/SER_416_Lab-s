@@ -1,0 +1,5 @@
+adults,children,has_pets,has_dogs,has_critical_meds,meds_need_fridge,special_needs,large_propane,natural_gas,address,phone,email,has_med_training,know_neighbors,has_neighbor_key,wants_newsletter,allow_non_disaster_contact
+3,1,1,0,0,,no,0,1,"101 Oak St, Glendale, AZ 85301",6021112222,testA@example.com,0,1,0,1,0
+5,2,0,,1,1,"requires insulin",1,0,"202 Pine Ave, Scottsdale, AZ 85254",4803334444,testB@example.com,1,0,0,0,1
+1,0,0,,0,,no,0,0,"303 Birch Dr, Tempe, AZ 85281",,,0,0,0,0,0
+2,3,1,1,0,,"mobility assistance",0,1,"404 Maple Blvd, Chandler, AZ 85225",4807778888,testC@example.com,1,1,1,0,1
