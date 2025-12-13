@@ -1,0 +1,9 @@
+SER416,1
+Activity/Task,duration,Predecessors
+G,3.2,D,E,F
+B,4,A
+C,2,A
+F,6,C
+D,3,B
+E,3,C
+A,5.1

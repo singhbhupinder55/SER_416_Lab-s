@@ -1,0 +1,13 @@
+SER416,1
+Activity/Task,most likely,Predecessors
+start,0
+A,5,start
+B,8,A
+C,7,A
+D,2,B
+E,4,C
+F,5,C
+G,5,D,E,F
+H,7,D
+I,6,B
+J,4,I,H,G
